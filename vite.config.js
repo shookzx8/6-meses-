@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   // Se publicar em https://<usuario>.github.io/<repo>, ajuste o base abaixo para '/<repo>/'
-  base: '/paraela/',
+  base: '/6-meses-/',
 })
